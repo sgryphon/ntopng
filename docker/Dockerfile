@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 MAINTAINER L. Deri <deri@ntop.org>
 
 RUN apt-get update
